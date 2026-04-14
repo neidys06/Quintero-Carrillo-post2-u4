@@ -25,7 +25,7 @@ El programa implementa y combina tres mecanismos fundamentales del lenguaje ensa
 ## Estructura del repositorio
 
 ```
-apellido-post2-u4/
+Quintero Carrilo-post2-u4/
 ├── macros.asm         ← biblioteca de macros utilitarias (8 macros documentadas)
 ├── programa2.asm      ← programa integrador principal
 ├── README.md          ← este archivo
